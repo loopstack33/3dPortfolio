@@ -4,6 +4,8 @@ import creator from "./creator.png";
 import mobile from "./mobile.png";
 import web from "./web.png";
 import github from "./github.png";
+import appstore from "./appstore.png";
+import playstore from "./googleplay.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 
@@ -26,9 +28,16 @@ import shopify from "./company/jassh.jpeg";
 import starbucks from "./company/usti.jpeg";
 import tesla from "./company/greenway.png";
 
-import carrent from "./fleetio.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import fleetio from "./projects/fleetio.png";
+import uic from "./projects/uic.png";
+import uts from "./projects/uts.png";
+import yiwu from "./projects/yiwubazaar.png";
+import track from "./projects/track.png";
+import reflection from "./projects/reflection.png";
+import deens from "./projects/deens.png";
+import snaptube from "./projects/snaptube.png";
+import cinehub from "./projects/cinehub.png";
+
 
 export {
   logo,
@@ -56,7 +65,15 @@ export {
   shopify,
   starbucks,
   tesla,
-  carrent,
-  jobit,
-  tripguide,
+  fleetio,
+  uic,
+  uts,
+  yiwu,
+  track,
+  reflection,
+  deens,
+  appstore,
+  playstore,
+  snaptube,
+  cinehub,
 };
